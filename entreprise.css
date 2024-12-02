@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.haut{
+    background-color: grey;
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    margin-right: 25px;}
+.fond{
+    display: flex;
+    justify-content: space-around; 
+    padding-top: 300px;   
+    border-top: solid black 1px; 
+    
+
+}
+.ecriture{
+    text-align: center;
+    color:white;
+    
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    float: left;
+}
